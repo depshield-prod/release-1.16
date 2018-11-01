@@ -1,2 +1,2 @@
-# stage-release-1.16
-![depshield](https://staging.depshield.sonatype.org/badges/depshield-staging/stage-release-1.16/depshield.svg)
+# release-1.16
+![depshield](https://depshield.sonatype.org/badges/depshield-prod/release-1.16/depshield.svg)
