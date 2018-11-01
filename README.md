@@ -1,2 +1,2 @@
 # testing-oct-31-cim
-![depshield](https://ci.dev.depshield.sonatype.org/badges/depshield-ci/testing-oct-31-cim/depshield.svg)
+![depshield](https://staging.depshield.sonatype.org/badges/depshield-staging/stage-release-1.16/depshield.svg)
